@@ -4,7 +4,7 @@ const products = [
         name: 'Iphone12',
         price: 1000,
         category: 'telefonos',
-        img: 'https://cbafederal.net/wp-content/uploads/2021/02/i-12-a.png',
+        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5QoI3719fLH7sCbLrvS1lskIBpa3J_LP0IpTyVv8c6Rg7XukyvcHzUXFaZhWY5He-Nfk&usqp=CAU',
         stock: 25,
         description: 'Descripcion de Iphone 12'
     },
@@ -13,7 +13,7 @@ const products = [
         name: 'Samsung Galaxy S21',
         price: 900,
         category: 'telefonos',
-        img: 'https://images.samsung.com/is/image/samsung/p6pim/ar/galaxy-s21/gallery/ar-galaxy-s21-5g-g991-sm-g991bzalaro-368338802?$684_547_JPG$',
+        img: 'https://lezamapc.com.ar/38007-large_default/celular-samsung-galaxy-s21-fe-6gb-128gb-graphite.jpg',
         stock: 15,
         description: 'Descripción de Samsung Galaxy S21'
       },
@@ -31,7 +31,7 @@ const products = [
         name: 'Samsung Galaxy Tab S7',
         price: 600,
         category: 'tablets',
-        img: 'https://images.samsung.com/is/image/samsung/p6pim/sg/sm-t870nzsaxsp/gallery/sg-galaxy-tab-s7-t870-sm-t870nzsaxsp-frontmysticblack-295478232?$720_576_PNG$',
+        img: 'https://www.manual.ar/thumbs/products/l/1260236-samsung-galaxy-tab-s7.jpg',
         stock: 20,
         description: 'Descripción de Samsung Galaxy Tab S7'
     },
@@ -40,7 +40,7 @@ const products = [
         name: 'iPad Pro',
         price: 1200,
         category: 'tablets',
-        img: 'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-11-select-wifi-spacegray-202103_FMT_WHH?wid=940&hei=1112&fmt=png-alpha&.v=1617129158000',
+        img: 'https://stylewatch.vtexassets.com/arquivos/ids/201755-800-800?v=637708773190130000&width=800&height=800&aspect=true',
         stock: 5,
         description: 'Descripción de iPad Pro'
     },
@@ -49,7 +49,7 @@ const products = [
         name: 'Macbook Pro',
         price: 2000,
         category: 'notebooks',
-        img: 'https://www.apple.com/v/macbook-pro-13/p/images/overview/hero_endframe__dvsq0xsm470u_large_2x.jpg',
+        img: 'https://stylewatch.vtexassets.com/arquivos/ids/205169-800-800?v=637742239441700000&width=800&height=800&aspect=true',
         stock: 10,
         description: 'Descripción de Macbook Pro'
     },
@@ -58,7 +58,7 @@ const products = [
         name: 'Lenovo ThinkPad X1 Carbon',
         price: 1500,
         category: 'notebooks',
-        img: 'https://www.lenovo.com/medias/lenovo-laptop-thinkpad-x1-carbon-9-gen-hero.png?context=bWFzdGVyfHJvb3R8MTA5MDU0fGltYWdlL3BuZ3xoYmMvaDdhL2g5Yi85NzA0NzQ2ODcwNjA0LnBuZ3w4YmE4Y2NiOGUwY2QxMzE0MmU1YzIxZTMxNDliNmNkMjcyOTY5MjY5YzllZmU2ZjQ2NzU1ZjU2NTZlZWQyYWEw',
+        img: 'https://www.lenovo.com/medias/lenovo-laptop-thinkpad-x1-carbon-gen8-subseries-gallery-1.jpg?context=bWFzdGVyfHJvb3R8NDgwODZ8aW1hZ2UvanBlZ3xoOGQvaDYyLzEwNjc0NTg1OTkzMjQ2LmpwZ3wxMGE4MDVlNWJmOGM1Y2IzYjQ5ZTRlMWM2MmExMjk2NTBhMjI4ZDhhODNhMWJhNDgzY2ZmMmYwYjgzYWU2MjBi',
         stock: 7,
         description: 'Descripción de Lenovo ThinkPad X1 Carbon'
     }
