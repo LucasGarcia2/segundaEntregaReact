@@ -1,0 +1,17 @@
+.ItemListContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+
+.ItemListContainer h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.ItemListContainer div {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

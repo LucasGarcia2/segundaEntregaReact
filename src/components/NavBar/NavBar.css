@@ -1,0 +1,44 @@
+.NavBar {
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.NavBar h3 {
+  margin: 0;
+  font-size: 24px;
+  color: red;
+}
+
+.Categories {
+  display: flex;
+}
+
+.Option {
+  color: #fff;
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 18px;
+}
+
+.Option:hover {
+  text-decoration: underline;
+}
+
+.ActiveOption {
+  text-decoration: underline;
+}
+
+.CartWidget {
+  display: flex;
+  align-items: center;
+}
+
+.CartWidget img {
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+}

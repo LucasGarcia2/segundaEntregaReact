@@ -1,0 +1,33 @@
+.CardItem {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  margin: 0 16px 16px;
+  padding: 16px;
+}
+
+.ItemHeader {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.ItemImg {
+  width: 100%;
+  height: auto;
+  margin: 16px 0;
+}
+
+.Info {
+  font-size: 16px;
+  margin: 0;
+}
+
+.ItemFooter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 16px;
+}
